@@ -1,0 +1,15 @@
+{
+	"name": "rg1-adf-learning",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "358c9cdf-10ce-4b60-b412-675afa883940",
+		"tenantId": "1181194d-5930-4422-8721-6e8bb776753e",
+		"userAssignedIdentities": {
+			"/subscriptions/d4e068da-bcbb-4f03-9abd-62b96d433432/resourcegroups/rg1/providers/Microsoft.ManagedIdentity/userAssignedIdentities/rg1-mi-adf": {
+				"clientId": "c1dc374c-7560-4f81-944b-b55852d7082d",
+				"principalId": "36849172-341e-42f9-8a88-cca61d877782"
+			}
+		}
+	}
+}
